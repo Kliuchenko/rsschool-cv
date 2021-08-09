@@ -1,7 +1,7 @@
 # CV #
 + **Name:** *Kliuchenko Pasha*;
 + **Contacts:** +380934217068;
-+ **Autobiography:**\ I started courses at Rolling-Scopes school 8 days ago.\ Going to finish RSS courses and find the job of my dream!\
++ **Autobiography:** \ I started courses at Rolling-Scopes school 8 days ago. \ Going to finish RSS courses and find the job of my dream! \
 + **Hard skills:** Have a basic knowledges of HTML and CSS.
 + **Some HTML code:**
  ```
